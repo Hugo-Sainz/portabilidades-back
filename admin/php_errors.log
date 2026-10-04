@@ -1,0 +1,292 @@
+[01-Jun-2025 07:21:21 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[01-Jun-2025 07:21:21 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:21 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:21 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[01-Jun-2025 07:21:21 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:21 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:21 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[01-Jun-2025 07:21:21 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:21 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:21 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[01-Jun-2025 07:21:21 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:21 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[01-Jun-2025 07:21:54 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[01-Jun-2025 07:21:54 UTC] PHP Stack trace:
+[01-Jun-2025 07:21:54 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 107
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Undefined variable $conexionconn in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 00:32:43 UTC] PHP Warning:  Attempt to read property "insert_id" on null in C:\wamp64\www\BackendMau\admin\saveChip.php on line 108
+[02-Jun-2025 00:32:43 UTC] PHP Stack trace:
+[02-Jun-2025 00:32:43 UTC] PHP   1. {main}() C:\wamp64\www\BackendMau\admin\saveChip.php:0
+[02-Jun-2025 06:36:39 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php:91
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php on line 91
+[02-Jun-2025 06:36:39 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php:91
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php on line 91
+[02-Jun-2025 06:38:13 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php:91
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php on line 91
+[02-Jun-2025 06:38:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php:91
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php on line 91
+[02-Jun-2025 06:38:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php:91
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php on line 91
+[02-Jun-2025 06:38:41 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php:91
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php on line 91
+[02-Jun-2025 06:38:43 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php:91
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\BackendMau\admin\getEmpleadosData.php on line 91

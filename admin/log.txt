@@ -1,0 +1,90 @@
+Array
+(
+    [codigos] => Array
+        (
+            [0] => dx32d
+            [1] => sd23s
+        )
+
+)
+Input raw: {"codigos":["jncewh98"]}
+Data decoded: Array
+(
+    [codigos] => Array
+        (
+            [0] => jncewh98
+        )
+
+)
+
+Código insertado: jncewh98 (ID: )
+Input raw: {"codigos":["cdwedxw323","d2d3q2d32","d23d2q23dxq32","xxd32dx23ed"]}
+Data decoded: Array
+(
+    [codigos] => Array
+        (
+            [0] => cdwedxw323
+            [1] => d2d3q2d32
+            [2] => d23d2q23dxq32
+            [3] => xxd32dx23ed
+        )
+
+)
+
+Código insertado: cdwedxw323 (ID: )
+Código insertado: d2d3q2d32 (ID: )
+Código insertado: d23d2q23dxq32 (ID: )
+Código insertado: xxd32dx23ed (ID: )
+Input raw: 
+Data decoded: 
+Input raw: {"codigos":["dsacer","32dq23","d23wsz32","xd32dx23","cwewe3","d23xwxxs","x2q3w","xdwqq2","xsd32dx3","qw32xd32x","2wx32","xw32dxqw","32xd23x","xd23xd32","xxd32xd32","xxd32xd3","xd3d3"]}
+Data decoded: Array
+(
+    [codigos] => Array
+        (
+            [0] => dsacer
+            [1] => 32dq23
+            [2] => d23wsz32
+            [3] => xd32dx23
+            [4] => cwewe3
+            [5] => d23xwxxs
+            [6] => x2q3w
+            [7] => xdwqq2
+            [8] => xsd32dx3
+            [9] => qw32xd32x
+            [10] => 2wx32
+            [11] => xw32dxqw
+            [12] => 32xd23x
+            [13] => xd23xd32
+            [14] => xxd32xd32
+            [15] => xxd32xd3
+            [16] => xd3d3
+        )
+
+)
+
+Código insertado: dsacer (ID: )
+Código insertado: 32dq23 (ID: )
+Código insertado: d23wsz32 (ID: )
+Código insertado: xd32dx23 (ID: )
+Código insertado: cwewe3 (ID: )
+Código insertado: d23xwxxs (ID: )
+Código insertado: x2q3w (ID: )
+Código insertado: xdwqq2 (ID: )
+Código insertado: xsd32dx3 (ID: )
+Código insertado: qw32xd32x (ID: )
+Código insertado: 2wx32 (ID: )
+Código insertado: xw32dxqw (ID: )
+Código insertado: 32xd23x (ID: )
+Código insertado: xd23xd32 (ID: )
+Código insertado: xxd32xd32 (ID: )
+Código insertado: xxd32xd3 (ID: )
+Código insertado: xd3d3 (ID: )
+Código insertado: zsqwq21 (ID: 27)
+Código insertado: xsw (ID: 28)
+Código insertado: cwecwe (ID: 29)
+Código insertado: ed2d2 (ID: 30)
+Código insertado: cxei2n2 (ID: 31)
+Código insertado: cwe33f (ID: 32)
+Código insertado: cerc3 (ID: 33)
+Código insertado: vr3rv3 (ID: 34)
